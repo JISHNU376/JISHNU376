@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Things;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Mobile+Application+Developer;Open+Source+Contributor;Always+Learning+New+Things;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -21,7 +21,7 @@
 - 🌱 I'm currently learning **New Technology**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Your Skills (JavaScript, Python, etc.)**
-- 📫 How to reach me **your.email@example.com**
+- 📫 How to reach me **jish376@gmail.com**
 - ⚡ Fun fact: **Something interesting about you**
 
 ---
