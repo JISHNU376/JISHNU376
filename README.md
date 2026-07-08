@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h1 align="center">Hi 👋, I'm JISHNU R</h1>
+<h3 align="center">A passionate Mobile Application Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/JISHNU376">
     <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="yourusername" />
   </a>
 </p>
